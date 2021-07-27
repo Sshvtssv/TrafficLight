@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     private var currentLight = CurrentLight.red
     
     private let lightIsOn: CGFloat = 1
-    private let lightIsOff: CGFloat = 0.3
+    private let lightIsOff: CGFloat = 0.2
 
     
     override func viewDidLoad() {
